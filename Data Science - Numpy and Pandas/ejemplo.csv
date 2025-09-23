@@ -1,0 +1,13 @@
+id,nombre,apellido,edad,email,fecha_registro,saldo,activo,categoria
+1,Alvaro,Perez,25,alvaro.perez@example.com,2023-01-15,1500.50,True,A
+2,Laura,Gomez,30,laura.gomez@example.com,2023-02-20,2300.00,True,B
+3,Carlos,Ruiz,35,carlos.ruiz@example.com,2023-01-15,NaN,False,A
+4,Maria,López,28,maria.lopez@example.com,2023-03-10,1800.75,True,B
+5,Alvaro,Perez,25,alvaro.perez@example.com,2023-01-15,1500.50,True,A
+6,Lucia,Sanchez,22,lucia.sanchez@example.com,2023-04-05,1200.00,False,C
+7,David,Martinez,40,david.martinez@example.com,2023-02-28,3000.00,True,A
+8,Ana,Diaz,31,ana.diaz@example.com,2023-03-12,NaN,True,B
+9,Carlos,Ruiz,35,carlos.ruiz@example.com,2023-01-15,NaN,False,A
+10,Pedro,Gomez,29,pedro.gomez@example.com,2023-04-01,2100.25,True,C
+11,Laura,Gomez,30,laura.gomez@example.com,2023-02-20,2300.00,True,B
+12,Julia,Ortiz,27,julia.ortiz@example.com,2023-03-15,1950.50,False,C
